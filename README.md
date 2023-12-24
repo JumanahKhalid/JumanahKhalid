@@ -1,3 +1,4 @@
+<p align="left"> <img src="file:///Users/jumanahkhalidalbisher/Downloads/githumimagee/githumimagee.gif_p1.html" alt="jumanahkhalid" /> </p>
 <h1 align="center">Hi 👋, I am Jumanah khalid Albisher</h1>
 <h3 align="center">Passionate about work and technology, Jumanah✧ embraces innovation✨, creates innovative solutions, and contributes to meaningful projects with dedication and enthusiasm. Her quest for continuous learning and positive impact drives her in unraveling the complexities of the digital realm.</h3>
 
