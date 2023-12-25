@@ -3,7 +3,7 @@
     <img src="https://wallpaperaccess.com/full/5927911.gif" alt="صورة متحركة GIF">
 </body>
 
-<h1 align="center">Hey 👋🏼, I'm Jumanah khalid Albisher</h1>
+<h1 align="center">Hey 👋🏼, It is Jumanah </h1>
 <h3 align="center">A passionate Software developer 💻⚡️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jumanahkhalid&label=Profile%20views&color=008cb4&style=plastic" alt="jumanahkhalid" /> </p>
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Jumanahalbisher@gmail.com**
 
-- ⚡ Fun fact **I am a powerlifter🏋🏻‍♀️**
+- ⚡ Fun fact **I am a powerlifter🏋🏻‍♀️** another Fun Fact? why not👀 **People call be JumanahGPT cuz i know everything🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
