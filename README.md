@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Jumanahalbisher@gmail.com**
 
-- ⚡ Fun fact **I am a powerlifter🏋🏻‍♀️** another Fun Fact? why not👀 **People call be JumanahGPT cuz i know everything🤣**
+- ⚡ Fun fact **I am a powerlifter🏋🏻‍♀️** another Fun Fact? why not👀 **People call me JumanahGPT cuz i know everything🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
